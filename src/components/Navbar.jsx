@@ -17,27 +17,27 @@ function Navbar() {
 
       <ul className={`nav-menu ${isActive ? "" : "active"}`}>
         <li className="nav-item">
-          <a href="#" className="nav-link">
+          <a onClick={handleToggle} href="#" className="nav-link">
             Home
           </a>
         </li>
         <li className="nav-item">
-          <a href="#" className="nav-link">
+          <a onClick={handleToggle} href="#" className="nav-link">
             About
           </a>
         </li>
         <li className="nav-item">
-          <a href="#" className="nav-link">
+          <a onClick={handleToggle} href="#" className="nav-link">
             Portfolio
           </a>
         </li>
         <li className="nav-item">
-          <a href="#" className="nav-link">
+          <a onClick={handleToggle} href="#" className="nav-link">
             Contact
           </a>
         </li>
         <li className="nav-item">
-          <a href="#" className="nav-link">
+          <a onClick={handleToggle} href="#" className="nav-link">
             Resume
           </a>
         </li>
