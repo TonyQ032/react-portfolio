@@ -1,15 +1,21 @@
-import React from "react";
-import navEffects from "../utils/navbar";
+import React, { useState } from "react";
 import "../styles/navbar.css";
 
 function Navbar() {
+  // State for whether the hamburger menu is active
+  const [isActive, setActive] = useState("false");
+
+  const handleToggle = () => {
+    setActive(!isActive);
+  };
+
   return (
     <nav className="navbar">
       <a href="#" className="nav-branding">
         Anthony Quinones
       </a>
 
-      <ul className="nav-menu">
+      <ul className={`nav-menu ${isActive ? "" : "active"}`}>
         <li className="nav-item">
           <a href="#" className="nav-link">
             Home
@@ -37,7 +43,10 @@ function Navbar() {
         </li>
       </ul>
 
-      <div className="hamburger">
+      <div
+        className={`hamburger ${isActive ? "" : "active"}`}
+        onClick={handleToggle}
+      >
         <span className="bar"></span>
         <span className="bar"></span>
         <span className="bar"></span>
