@@ -5,6 +5,9 @@ import "../styles/header.css";
 function Header() {
   return (
     <header>
+      <a href="#" className="nav-branding">
+        Anthony Quinones
+      </a>
       <Navbar />
     </header>
   );

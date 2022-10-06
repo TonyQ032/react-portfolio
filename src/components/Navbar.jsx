@@ -11,10 +11,6 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <a href="#" className="nav-branding">
-        Anthony Quinones
-      </a>
-
       <ul className={`nav-menu ${isActive ? "" : "active"}`}>
         <li className="nav-item">
           <a onClick={handleToggle} href="#" className="nav-link">
