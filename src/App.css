@@ -4,3 +4,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+main {
+  background-color: #076763;
+}
