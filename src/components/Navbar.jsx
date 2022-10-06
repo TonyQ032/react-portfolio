@@ -14,11 +14,6 @@ function Navbar() {
       <ul className={`nav-menu ${isActive ? "" : "active"}`}>
         <li className="nav-item">
           <a onClick={handleToggle} href="#" className="nav-link">
-            Home
-          </a>
-        </li>
-        <li className="nav-item">
-          <a onClick={handleToggle} href="#" className="nav-link">
             About
           </a>
         </li>
