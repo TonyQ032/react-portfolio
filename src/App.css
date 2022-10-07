@@ -5,10 +5,15 @@
   box-sizing: border-box;
 }
 
-main {
-  background-color: #076763;
+body {
+  font-family: 'Times New Roman', Times, serif
 }
 
 main {
+  background-color: #076763;
   color: white;
+}
+
+.bold {
+  font-weight: bold;
 }
