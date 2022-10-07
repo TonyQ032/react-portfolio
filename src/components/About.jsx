@@ -4,7 +4,7 @@ import "../styles/about.css";
 
 function About() {
   return (
-    <div className="about-me-container">
+    <section className="section-container">
       <div className="top-row">
         <img id="img-of-me" src={ProfilePic} alt="Image of myself" />
         <div className="about-info">
@@ -101,7 +101,7 @@ function About() {
           <p>September 2022 – October 2022</p>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 

@@ -17,3 +17,7 @@ main {
 .bold {
   font-weight: bold;
 }
+
+.section-container {
+  padding: 2rem 4vw;
+}

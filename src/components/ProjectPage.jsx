@@ -12,7 +12,7 @@ import codingQuiz from "../assets/project-img/coding-quiz.png";
 
 function ProjectPage() {
   return (
-    <section>
+    <section className="section-container">
       <h2>ProjectPage</h2>
       <div className="project-container">
         <Project
