@@ -8,6 +8,8 @@
   padding: 4vw;
   display: flex;
   flex-direction: column;
+  gap: 3rem;
+  align-items: center;
 }
 
 .top-row {
@@ -17,8 +19,37 @@
   gap: 3rem;
 }
 
-.bottom-row {
+.middle-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-around;
+  gap: 3rem;
+}
+
+.bottom-row {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.about-header {
+  font-size: 2rem;
+  border-bottom: 3px solid white;
+}
+
+.ed-container h3 {
+  font-weight: bold;
+}
+
+.ed-container p {
+  font-style: italic;
+}
+
+.m-column {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 400px;
 }

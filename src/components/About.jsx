@@ -43,21 +43,42 @@ function About() {
         </div>
       </div>
 
+      <div className="middle-row">
+        <div className="m-column">
+          <h2 className="about-header">About Me</h2>
+          <p>
+            My name is Anthony Quinones and I am a Rialto-based software
+            engineer and educator! I am currently working as a Substitute
+            Teacher and Guest Teacher at the Fontana and San Bernardino Unified
+            School Districts respectively. I am now looking for opportunities to
+            start the next chapter of my career!
+            <br /> <br /> I am always excited to learn new skills and concepts
+            and I am ready for wherever life takes me next!
+          </p>
+        </div>
+
+        <div className="m-column">
+          <h2 className="about-header">Education</h2>
+
+          <div class="ed-container">
+            <h3 class="school-name">University of California, Riverside</h3>
+            <p>UCR Extension Professional Studies Certificate of Completion</p>
+            <p>May 2022 – October 2022</p>
+          </div>
+
+          <div class="ed-container">
+            <h3 class="school-name">
+              California State University, San Bernardino
+            </h3>
+            <p>BA in History (Teaching Track) - Magna Cum Laude - GPA: 3.801</p>
+            <p>September 2017 – May 2021</p>
+          </div>
+        </div>
+      </div>
+
       <div className="bottom-row">
-        <div>
-          <h2>About Me</h2>
-          <p>Sample text</p>
-        </div>
-
-        <div>
-          <h2>Experience</h2>
-          <p>Sample text</p>
-        </div>
-
-        <div>
-          <h2>Education</h2>
-          <p>Sample text</p>
-        </div>
+        <h2 className="about-header">Experience</h2>
+        <p>Sample text</p>
       </div>
     </div>
   );
