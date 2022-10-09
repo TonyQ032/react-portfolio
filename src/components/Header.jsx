@@ -2,14 +2,14 @@ import React from "react";
 import Navbar from "./Navbar";
 import "../styles/header.css";
 
-function Header() {
+function Header({ currentPage, handlePageChange }) {
   return (
     <>
       <header>
         <a href="#" className="nav-branding">
           Anthony Quinones
         </a>
-        <Navbar />
+        <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
       </header>
       <div className="hero-section">
         <div className="text-container">

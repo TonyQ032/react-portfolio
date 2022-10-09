@@ -1,14 +1,14 @@
 import React from "react";
 import Project from "./Project";
-import "../styles/project.css";
+import "../../styles/project.css";
 
 // Importing project screenshots
-import techBlog from "../assets/project-img/tech-blog.png";
-import popUmai from "../assets/project-img/pop-umai.png";
-import platello from "../assets/project-img/platello.png";
-import employeeTracker from "../assets/project-img/employee-tracker.png";
-import socialNetwork from "../assets/project-img/social-network-api.png";
-import codingQuiz from "../assets/project-img/coding-quiz.png";
+import techBlog from "../../assets/project-img/tech-blog.png";
+import popUmai from "../../assets/project-img/pop-umai.png";
+import platello from "../../assets/project-img/platello.png";
+import employeeTracker from "../../assets/project-img/employee-tracker.png";
+import socialNetwork from "../../assets/project-img/social-network-api.png";
+import codingQuiz from "../../assets/project-img/coding-quiz.png";
 
 function ProjectPage() {
   return (

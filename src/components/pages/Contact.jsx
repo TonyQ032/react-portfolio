@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
-import "../styles/about.css";
+import "../../styles/about.css";
 import Swal from "sweetalert2";
 import emailjs from "@emailjs/browser";
-import "../styles/form.css";
+import "../../styles/form.css";
 
 const serviceId = "default_service";
 const templateId = "template_c8segls";

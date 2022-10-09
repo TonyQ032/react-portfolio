@@ -61,6 +61,11 @@ a {
   background-color: white;
 }
 
+.selected {
+  border: 1px solid white;
+  border-radius: 0.5rem;
+}
+
 @media(max-width: 768px) {
   .hamburger {
     display: block;
