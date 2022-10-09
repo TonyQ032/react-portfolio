@@ -6,6 +6,8 @@ A simple portfolio I created using React!
 
 The purpose of this project was to build and deploy a functional portfolio website utilizing React and Github Pages. The entirety of the portfolio is one single page with various React components that conditionally load depending on which "page" the user has selected.
 
+The website can be viewed by clicking [here.](https://tonyq032.github.io/react-portfolio/#)
+
 ## Technologies
 
 Below is a list of all the technologies we utilized in order to build this project.
