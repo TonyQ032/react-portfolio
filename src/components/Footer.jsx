@@ -12,7 +12,7 @@ function Footer() {
         target="_blank"
         className="icon-container"
       >
-        <i class="bi bi-github"></i>
+        <i className="bi bi-github"></i>
         <p>GitHub</p>
       </a>
 
@@ -21,12 +21,12 @@ function Footer() {
         target="_blank"
         className="icon-container"
       >
-        <i class="bi bi-linkedin"></i>
+        <i className="bi bi-linkedin"></i>
         <p>LinkedIn</p>
       </a>
 
       <a href={Resume} target="_blank" className="icon-container">
-        <i class="bi bi-person-circle fa-3x"></i>
+        <i className="bi bi-person-circle fa-3x"></i>
         <p>Resume</p>
       </a>
     </footer>

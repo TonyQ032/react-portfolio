@@ -60,16 +60,16 @@ function About() {
         <div className="m-column">
           <h2 className="about-header">Education</h2>
 
-          <div class="ed-container">
-            <h3 class="school-name bold">
+          <div className="ed-container">
+            <h3 className="school-name bold">
               University of California, Riverside
             </h3>
             <p>UCR Extension Professional Studies Certificate of Completion</p>
             <p>May 2022 – October 2022</p>
           </div>
 
-          <div class="ed-container">
-            <h3 class="school-name bold">
+          <div className="ed-container">
+            <h3 className="school-name bold">
               California State University, San Bernardino
             </h3>
             <p>BA in History (Teaching Track) - Magna Cum Laude - GPA: 3.801</p>
@@ -81,22 +81,22 @@ function About() {
       <div className="bottom-row">
         <h2 className="about-header">Experience</h2>
 
-        <div class="ed-container">
-          <h3 class="school-name bold">Fontana Unified School District</h3>
+        <div className="ed-container">
+          <h3 className="school-name bold">Fontana Unified School District</h3>
           <p>Substitute Teacher</p>
           <p>October 2021 – Present</p>
         </div>
 
-        <div class="ed-container">
-          <h3 class="school-name bold">
+        <div className="ed-container">
+          <h3 className="school-name bold">
             San Bernardino Unified School District
           </h3>
           <p>Guest Teacher</p>
           <p>October 2021 – Present</p>
         </div>
 
-        <div class="ed-container">
-          <h3 class="school-name bold">Pop Umai</h3>
+        <div className="ed-container">
+          <h3 className="school-name bold">Pop Umai</h3>
           <p>Freelance - Full-Stack Software Engineer</p>
           <p>September 2022 – October 2022</p>
         </div>
