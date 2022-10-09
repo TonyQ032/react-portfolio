@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.05ef097c.css",
-    "main.js": "/react-portfolio/static/js/main.fe6b5b9c.js",
-    "static/media/Scene-24.jpg": "/react-portfolio/static/media/Scene-24.f211ce02cd99004c0972.jpg",
-    "static/media/platello.png": "/react-portfolio/static/media/platello.78f4ef12320f807c4453.png",
-    "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.88e7bb903bc280dd98b9.png",
-    "static/media/coding-quiz.png": "/react-portfolio/static/media/coding-quiz.6016a567aee8a5b39960.png",
-    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.0dbcb68b2bd07464c6ba.png",
-    "static/media/social-network-api.png": "/react-portfolio/static/media/social-network-api.2b318cd410dd508f7efc.png",
-    "static/media/pop-umai.png": "/react-portfolio/static/media/pop-umai.3e7ca2bc2cf8a4ef9fe9.png",
-    "static/media/me-profile.png": "/react-portfolio/static/media/me-profile.509c8d656183404659b5.png",
-    "static/media/bootstrap-icons.woff?": "/react-portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/bootstrap-icons.woff2?": "/react-portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/AnthonyQ-Resume.pdf": "/react-portfolio/static/media/AnthonyQ-Resume.5bcdf41de90c72c6a60f.pdf",
-    "index.html": "/react-portfolio/index.html",
-    "main.05ef097c.css.map": "/react-portfolio/static/css/main.05ef097c.css.map",
-    "main.fe6b5b9c.js.map": "/react-portfolio/static/js/main.fe6b5b9c.js.map"
+    "main.css": "/simple-react-portfolio/static/css/main.c8a1f7fa.css",
+    "main.js": "/simple-react-portfolio/static/js/main.4ccf72be.js",
+    "static/media/Scene-24.jpg": "/simple-react-portfolio/static/media/Scene-24.f211ce02cd99004c0972.jpg",
+    "static/media/platello.png": "/simple-react-portfolio/static/media/platello.78f4ef12320f807c4453.png",
+    "static/media/employee-tracker.png": "/simple-react-portfolio/static/media/employee-tracker.88e7bb903bc280dd98b9.png",
+    "static/media/coding-quiz.png": "/simple-react-portfolio/static/media/coding-quiz.6016a567aee8a5b39960.png",
+    "static/media/tech-blog.png": "/simple-react-portfolio/static/media/tech-blog.0dbcb68b2bd07464c6ba.png",
+    "static/media/social-network-api.png": "/simple-react-portfolio/static/media/social-network-api.2b318cd410dd508f7efc.png",
+    "static/media/pop-umai.png": "/simple-react-portfolio/static/media/pop-umai.3e7ca2bc2cf8a4ef9fe9.png",
+    "static/media/me-profile.png": "/simple-react-portfolio/static/media/me-profile.509c8d656183404659b5.png",
+    "static/media/bootstrap-icons.woff?": "/simple-react-portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/simple-react-portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/AnthonyQ-Resume.pdf": "/simple-react-portfolio/static/media/AnthonyQ-Resume.5bcdf41de90c72c6a60f.pdf",
+    "index.html": "/simple-react-portfolio/index.html",
+    "main.c8a1f7fa.css.map": "/simple-react-portfolio/static/css/main.c8a1f7fa.css.map",
+    "main.4ccf72be.js.map": "/simple-react-portfolio/static/js/main.4ccf72be.js.map"
   },
   "entrypoints": [
-    "static/css/main.05ef097c.css",
-    "static/js/main.fe6b5b9c.js"
+    "static/css/main.c8a1f7fa.css",
+    "static/js/main.4ccf72be.js"
   ]
 }
